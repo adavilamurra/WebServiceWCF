@@ -1,0 +1,12 @@
+c:\users\alex\documents\visual studio 2015\Projects\WSWCF\WindowsFormsApplication1\obj\Debug\WindowsApp.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2015\Projects\WSWCF\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\alex\documents\visual studio 2015\Projects\WSWCF\WindowsFormsApplication1\obj\Debug\WindowsApp.Properties.Resources.resources
+c:\users\alex\documents\visual studio 2015\Projects\WSWCF\WindowsFormsApplication1\obj\Debug\WindowsApp.csproj.GenerateResource.Cache
+c:\users\alex\documents\visual studio 2015\Projects\WSWCF\WindowsFormsApplication1\bin\Debug\WindowsApp.exe.config
+c:\users\alex\documents\visual studio 2015\Projects\WSWCF\WindowsFormsApplication1\bin\Debug\WindowsApp.exe
+c:\users\alex\documents\visual studio 2015\Projects\WSWCF\WindowsFormsApplication1\bin\Debug\WindowsApp.pdb
+c:\users\alex\documents\visual studio 2015\Projects\WSWCF\WindowsFormsApplication1\obj\Debug\WindowsApp.exe
+c:\users\alex\documents\visual studio 2015\Projects\WSWCF\WindowsFormsApplication1\obj\Debug\WindowsApp.pdb
+c:\users\alex\documents\visual studio 2015\Projects\WSWCF\WindowsFormsApplication1\bin\Debug\MiWCF.dll
+c:\users\alex\documents\visual studio 2015\Projects\WSWCF\WindowsFormsApplication1\bin\Debug\MiWCF.pdb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\WSWCF\WindowsFormsApplication1\obj\Debug\WindowsApp.csproj.ResolveComReference.cache

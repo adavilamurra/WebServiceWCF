@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="9c3ce5d7-4aa8-410b-ae30-426d96335a31" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:6033/WSElectricEnergy.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="WSElectricEnergy.disco" MetadataType="Disco" ID="aaf468f3-e9ec-4556-9bc1-8abd5ff15057" SourceId="1" SourceUrl="http://localhost:6033/WSElectricEnergy.svc?disco" />
+    <MetadataFile FileName="WSElectricEnergy.xsd" MetadataType="Schema" ID="a79c4b88-ffac-4aaa-86ce-06dc56a834b9" SourceId="1" SourceUrl="http://localhost:6033/WSElectricEnergy.svc?xsd=xsd1" />
+    <MetadataFile FileName="WSElectricEnergy1.xsd" MetadataType="Schema" ID="f3447afa-550d-4146-8591-3ac2ef21dfe1" SourceId="1" SourceUrl="http://localhost:6033/WSElectricEnergy.svc?xsd=xsd0" />
+    <MetadataFile FileName="WSElectricEnergy2.xsd" MetadataType="Schema" ID="f57f40d4-73d0-4b42-9fcc-ee76f974836e" SourceId="1" SourceUrl="http://localhost:6033/WSElectricEnergy.svc?xsd=xsd2" />
+    <MetadataFile FileName="WSElectricEnergy.wsdl" MetadataType="Wsdl" ID="4e981b00-ba2f-4cbf-a9a9-0bceb5982766" SourceId="1" SourceUrl="http://localhost:6033/WSElectricEnergy.svc?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

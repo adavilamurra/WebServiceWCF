@@ -1,0 +1,6 @@
+C:\Users\Alex\documents\visual studio 2015\Projects\WSWCF\MiWCF\bin\MiWCF.dll.config
+C:\Users\Alex\documents\visual studio 2015\Projects\WSWCF\MiWCF\bin\MiWCF.dll
+C:\Users\Alex\documents\visual studio 2015\Projects\WSWCF\MiWCF\bin\MiWCF.pdb
+C:\Users\Alex\documents\visual studio 2015\Projects\WSWCF\MiWCF\obj\Release\MiWCF.csprojResolveAssemblyReference.cache
+C:\Users\Alex\documents\visual studio 2015\Projects\WSWCF\MiWCF\obj\Release\MiWCF.dll
+C:\Users\Alex\documents\visual studio 2015\Projects\WSWCF\MiWCF\obj\Release\MiWCF.pdb
